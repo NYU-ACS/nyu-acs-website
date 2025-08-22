@@ -16,7 +16,7 @@ We are a group of NYU students and researchers focused on exploring advanced com
 
 ## Current Topic
 
-### Agents
+### September 2025: Agents
 **Status:** Work in Progress
 
 Exploring autonomous agents, multi-agent systems, and their applications in modern computing.
