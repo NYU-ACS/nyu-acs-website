@@ -4,7 +4,7 @@ url: "https://nyu-acs.github.io/nyu-acs-website"
 baseurl: "/nyu-acs-website"
 
 # Jekyll theme
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
 
@@ -16,6 +16,19 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# Just the Docs theme settings
+search_enabled: true
+heading_anchors: true
+
+# Navigation structure
+nav_sort: case_insensitive
+
+# Footer content
+footer_content: "© 2025 NYU ACS Reading Group"
+
+# Color scheme (optional)
+color_scheme: light
 
 # Collections
 collections:
@@ -29,4 +42,4 @@ defaults:
       path: ""
       type: "topics"
     values:
-      layout: "topic"
+      layout: "default"

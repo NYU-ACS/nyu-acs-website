@@ -1,3 +1,9 @@
+---
+title: September 2025 Plan
+parent: September 2025
+nav_order: 1
+---
+
 # September 2025: Autonomous Agents and Multi-Agent Systems
 
 🏠 **[← Back to Main](../index.md)** | 📚 **[Resources](resources.md)**
