@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NYU ACS Reading Group
+nav_order: 1
 ---
 
 # About Our Reading Group
