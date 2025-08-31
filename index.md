@@ -21,9 +21,9 @@ We are a group of NYU students and researchers focused on exploring advanced com
 ### Autonomous Agents and Multi-Agent Systems
 **September 2025** 
 
-📋 **[View Detailed Plan](september_2025/plan.md)** | 📚 **[Resources](september_2025/resources.md)**
-
 This month we're exploring autonomous agents and multi-agent systems, covering fundamentals, current challenges, and practical implementation with cutting-edge protocols like MCP and A2A.
+
+📋 **[View Detailed Plan](september_2025/plan.md)** | 📚 **[Resources](september_2025/resources.md)**
 
 ---
 
