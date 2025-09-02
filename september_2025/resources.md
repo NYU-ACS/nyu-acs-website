@@ -24,6 +24,9 @@ nav_order: 2
 - **[LangGraph Multi-Agent Systems Documentation](https://langchain-ai.github.io/langgraph/concepts/multi_agent/)**  
   *Technical docs for building multi-agent systems. Includes code examples and patterns for getting multiple agents to work together without chaos.*
 
+- **[LangGraph + Anthropic Agent Starter](https://github.com/SentientRamen12/agents-demo-simple)**  
+  *Starter code for building agents with LangGraph and Anthropic Claude. Covers system prompts, workflows, message management, and tool implementations - perfect for hands-on learning.*
+
 ### Top Technical Blog Writers to Follow
 
 - **[Simon Willison](https://simonw.substack.com)** - LLMs, MCP, AI agents implementation  
